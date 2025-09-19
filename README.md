@@ -22,8 +22,16 @@ Meet `--hoodi`, the second long-standing, merged-from-genesis, public Ethereum t
 * Shapella: At Genesis (`0`)
 * Dencun: At Genesis (`0`)
 * Pectra:
-  * Prague time: `1742999832`
+  * Prague time: `1742999832` - Wednesday, 26 March 2025 14:37:12
   * Electra epoch: `2048`
+* Fusaka
+  * Osaka time: `1761677592` - Tuesday, 28 October 2025 18:53:12
+  * Fulu epoch: `50688`
+* BPO:
+  * BPO 1 time: `1762365720` - Wednesday, 5 November 2025 18:02:00
+  * BPO 1 epoch: `52480`
+  * BPO 2 time: `1762955544` - Wednesday, 12 November 2025 13:52:24
+  * BPO 2 epoch: `54016`
 * Network ID: `560048`
 * Chain ID: `560048`
 * Genesis fork version: `0x10000910`
